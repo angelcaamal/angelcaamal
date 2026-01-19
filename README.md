@@ -2,7 +2,7 @@
 
 **Software Engineer | Cloud Infrastructure & DX Specialist**
 
-I am a Software Engineer at GlobalLogic, working on behalf of Google, focusing on the **Google Cloud Storage** ecosystem. I specialize in bridging the gap between complex backend infrastructure and seamless developer experiences (DX).
+I am part of the **Google Extended Workforce (xWF)** through GlobalLogic, focusing on the **Google Cloud Storage** ecosystem. I specialize in bridging the gap between complex backend infrastructure and seamless developer experiences (DX).
 
 ### 🚀 What I'm working on
 - **Google Cloud Storage (Node.js SDK):** Maintaining and optimizing official client library samples.

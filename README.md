@@ -1,20 +1,21 @@
-# Hi, I'm Angel Caamal
+# Angel Caamal
 
-**Software Engineer @ GlobalLogic (Google xWF) | Node.js**
+**Software Engineer at GlobalLogic** · Backend & Developer Experience (Google Cloud)
 
-I specialize in bridging the gap between backend infrastructure and Developer Experience (DX). My current work focuses on ensuring that official Google Cloud client libraries and code samples are production-ready, robust, and easy to adopt for the global developer community.
+Backend Software Engineer working across **Node.js/TypeScript**, **Java**, and **Python** on **Google Cloud**. I focus on backend reliability, security hardening, and Developer Experience (DX)—ensuring official Google Cloud client libraries and open-source reference implementations are robust, secure, and production-ready.
 
-### What I'm currently doing
-- **Maintaining Official GCP Samples:** Modernizing and optimizing Node.js code samples across services like **GenAI**, **Cloud Storage**, and **Healthcare (FHIR)** in the official [`nodejs-docs-samples`](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) repository.
-- **DX & CI/CD:** Resolving API bottlenecks, implementing strict TDD practices, and maintaining stable GitHub Actions pipelines.
+## Current Focus
 
-### Tech Stack
-- **Languages:** Node.js, TypeScript, JavaScript
-- **Cloud & Architecture:** Google Cloud Platform (GCP), gRPC, Distributed Systems, API Design
-- **DevOps:** CI/CD pipelines, GitHub Actions, Infrastructure as Code (IaC)
+- **Multi-Language Open-Source Engineering:** Modernizing and maintaining official Google Cloud reference implementations across **Node.js**, **Java**, and **Python**—covering services such as **Generative AI**, **Cloud Storage**, and **Cloud Healthcare (FHIR)**—in [`nodejs-docs-samples`](https://github.com/GoogleCloudPlatform/nodejs-docs-samples), [`java-docs-samples`](https://github.com/GoogleCloudPlatform/java-docs-samples), and [`python-docs-samples`](https://github.com/GoogleCloudPlatform/python-docs-samples).
+- **Code Reviews & Security Hardening:** Reviewing contributions across official repositories, remediating security vulnerabilities, and aligning implementations with Google Cloud best practices.
+- **Developer Experience & CI/CD:** Resolving SDK and API integration bottlenecks, reinforcing test coverage with TDD, and keeping GitHub Actions pipelines fast and reliable.
 
----
+## Technical Stack
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelcaamal/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelcaamal)
+- **Languages & Runtimes:** TypeScript, JavaScript (Node.js), Java, Python
+- **Cloud & Architecture:** Google Cloud Platform (GCP), Distributed Systems, API Design, gRPC
+- **DevOps & Quality:** CI/CD, GitHub Actions, Infrastructure as Code (IaC), TDD
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelcaamal/)
